@@ -17,8 +17,6 @@
     - Function service metadata (no code) used to initialize the Azure Function.
 2. Handler
     - Handler service (golang service) used to add all the business logic to the Function.
-3. Load Testing
-    - Load testing configuration for Taurus (https://gettaurus.org/).
 
 Registered functions:
 
